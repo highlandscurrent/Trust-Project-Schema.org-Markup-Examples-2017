@@ -1,0 +1,49 @@
+
+
+<!-- Trust Indicator AUTHOR INFO Schema.org markup -->
+<!-- This is an example for knowsAbout markup for columnists who don't have a topic focus, speciality, expertise, etc -->
+<!--  Where will code go: on the individual author bio or profile or author's home page on the publisher -->
+<!-- This is dummy data for illustrative purposes only -->
+<!-- Note: On the attributes below -->
+<!-- Optional: image -->
+<!-- Additional Trust Project MVP requirement: workLocation -->
+<!-- See this page for the spec and rollout staging of attributes via markup: https://www.scu.edu/ethics/focus-areas/journalism-ethics/programs/the-trust-project/collaborator-materials/trust-protocol-phase-i-mvp-/ --> 
+
+<script type="application/ld+json">
+{
+
+    "@context": "http://schema.org",
+
+	 "@type"   : "Person",
+	 "name"    : "Jane Doe",
+     "image"   : "URL to author image on the publisher's website",
+
+     "workLocation" : {
+	     "@type": "Place",
+	     "name" : "New York, New York, USA"
+     },
+
+    "description" : "Jane Doe is an American journalist who is a White House correspondent for The New York Times and a political analyst for CNN. She previously worked for Politico and the New York Daily News, where she was a political reporter.",
+	
+    "contactPoint"     : {
+        "@type"        : "ContactPoint",
+       	"telephone"    : "+1-425-123-4567",
+        "contactType"  : "Journalist",
+        "email"        : "janedoe@nytco.com"
+     },
+    
+     "knowsAbout": "Columnist",
+    
+     "knowsLanguage": [
+                       {"@type": "Language",
+		        "name": "English"
+			},
+			{"@type": "Language",
+			 "name": "French"
+			}],
+
+    "sameAs" : ["https://twitter.com/<jane-doe-handle>", "https://www.nytimes.com/by/<jane-doe>"],	
+    
+    "jobTitle"	: "Columnist"
+}
+</script>
