@@ -18,6 +18,29 @@
 		         "name"    : "Dan Morrison",
 	             	"sameAs" : "https://orbmedia.org/what-we-do#danmorrison"
     }],
+    "citation": [
+	// Internal Original Materials                             
+
+	// External Original Materials 
+	{
+	"@type": "CreativeWork",
+	"url":  "http://www.who.int/en/news-room/detail/12-07-2017-2-1-billion-people-lack-safe-drinking-water-at-home-more-than-twice-as-many-lack-safe-sanitation"
+	},
+	{
+ 	"@type": "CreativeWork",
+ 	"url": "https://efsa.onlinelibrary.wiley.com/doi/epdf/10.2903/j.efsa.2016.4501"
+ 	 },
+	 
+	//Secondary News Sources 
+  	{
+   	 "@type": "CreativeWork",
+   	 "url": "https://www.economist.com/business/2017/03/25/companies-are-racing-to-add-value-to-water"
+  	 },
+	 {
+   	 "@type": "CreativeWork",
+   	 "url": "https://www.voanews.com/a/a-13-2005-03-17-voa34-67381152/274768.html"
+  	 }
+ 	],
    "publisher": {
     "@type": "NewsMediaOrganization",
     "name": "Orb Media"
