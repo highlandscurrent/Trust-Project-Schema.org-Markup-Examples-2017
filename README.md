@@ -1,6 +1,6 @@
 # Trust-Project-Schema.org-Markup-Examples-2017
 
-This repository has three folders. 
+This repository has two folders. 
 
 **[Trust Project](https://github.com/TheTrustProjectCode/Trust-Project-Schema.org-Markup-Examples-2017/tree/master/TrustProject)**
 
