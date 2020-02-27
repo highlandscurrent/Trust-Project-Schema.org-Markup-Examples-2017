@@ -4,7 +4,7 @@ This repository has two folders.
 
 **[Trust Project](https://github.com/TheTrustProjectCode/Trust-Project-Schema.org-Markup-Examples-2017/tree/master/TrustProject)**
 
-This folder contains examples of schema.org markup code for various [Trust Protocol indicators](https://www.scu.edu/ethics/focus-areas/journalism-ethics/programs/the-trust-project/collaborator-materials/) from the Trust Project, an international organization working to build a more trusted and trustworthy press.
+This folder contains examples of schema.org markup code for various [Trust indicators](https://www.scu.edu/ethics/focus-areas/journalism-ethics/programs/the-trust-project/collaborator-materials/) from the Trust Project, an international organization working to build a more trusted and trustworthy press.
 
 **[Newsrooms](https://github.com/TheTrustProjectCode/Trust-Project-Schema.org-Markup-Examples-2017/tree/master/Newsrooms)**
 
